@@ -1,4 +1,6 @@
-# Oscar Pearson - Author
+<h1 align="center">Oscar Pearson - Author</h1>
+
+## About
 
 Project - User-Centric Frontend Development - Code Institute
 
@@ -7,25 +9,55 @@ The purpose of this project is to provide a website for the fans and readers of 
 It will serve as a focal point for all things relating to the author, allowing people interested in his works to discover more about the author and his published works.
 The aim is to help the author to market his novels, guide his audience to his social media platforms and keep fans updated on newly published works, as well as works in progress.
 
-## Showcase
+## Deployment
 
-## UX
+A link to the website can be found [here] INSERT ACTUAL LINK HERE!!!!!!!!!!!!!!!!!
+
+ADD WIREFRAME IMAGES OR IMAGE OF WEBSITE LANDING PAGE HERE!!!!!!!!!!!!!!!!!!
+
+## Table of Contents
+
+[User Experience (UX)](#UX)
+
+[Features](#features)
+
+[Technologies Used](#technologies)
+
+[Testing](#testing)
+
+[Deployment](#deployment)
+
+[Known Bugs](#bugs)
+
+[Credits](#credits)
+
+
+<a name="UX"></a>
+## User Experience (UX)
 
 The end user of this project will be fans and prospective fans of author Oscar Pearson.
 
-It is aimed at readers of fantasy novels, specifically readers of the sub-genre 'grimdark' fantasy as these are the type of fiction that Oscar Perason writes.
-
-The end user will want to see updates on the author's works, including where and how his books can be published.
-
-The end user will want to be able to access ways to allow them to follow the author more closely on social media.
+It is aimed at readers of fantasy novels, specifically readers of the sub-genre 'grimdark' fantasy as this is the type of fiction that Oscar Perason writes.
 
 ### User Stories
 
-1. 
+* As a user I want to be able to view and purchase Oscar Pearson's latest releases.
+* As a user I want to be able to view and purchase Oscar Pearson's past published works.
+* As a user I want to be shown how to easily follow the author on social media platforms.
+* As a user I want to find out more about the author Oscar Pearson's life.
+* As a user I want to be able to read a brief synopsis of each book to get a feel for their stories.
+* As a user I want to be able to navigate the site easily whether accessing through my mobile or laptop.
+* As a user I want to be able to view any events the author is attending eg. signing, interviews etc.
+* As a user I want to be able to get in touch to ask questions about upcoming events.
 
 ### Design
 
 ####    Colour Scheme
+    - The colours used for the website were chosen in an attempt to pull the user into the fantastical worlds created by the author; worlds where nature is still prevelant with all its natural green's and browns
+     but also where blood is freely spilled by the characters created therein.
+     To this effect I have chosen a mixture of Bistre bark brown (#3f2413), Rifle Green (#404634) and Laurel Green (#afbe8f) for that immersive feeling of nature. And Ruby Red (#a3001e) for that hint of blood and feeling of danger.
+
+        <img src="INSERT IMAGE OF PALETTE HERE!!!!!!!!!!!!!!!!!!!!!">
 
 ####    Typography
 
