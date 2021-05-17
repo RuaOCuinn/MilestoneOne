@@ -67,8 +67,8 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
 - ####    Images (Needs more ones images decided upon!!!!!!)
     - The main use of images for this website will be the ones used for book covers. As none of the books on the website are real I will have to acquire some suitable ones.
 
-- ### Wireframes
-
+- #### Wireframes
+    - All wireframes were made using Balsamiq. */ at the time of writing this the wireframes are only 3/4 of the way complete /*
     - Home Page Wireframe
 
     - Mobile Wireframe
