@@ -52,19 +52,22 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
 
 ### Design
 
-####    Colour Scheme
+- ####    Colour Scheme
     - The colours used for the website were chosen in an attempt to pull the user into the fantastical worlds created by the author; worlds where nature is still prevelant with all its natural green's and browns
      but also where blood is freely spilled by the characters created therein.
      To this effect I have chosen a mixture of Bistre bark brown (#3f2413), Rifle Green (#404634) and Laurel Green (#afbe8f) for that immersive feeling of nature. And Ruby Red (#a3001e) for that hint of blood and feeling of danger.
 
         <img src="INSERT IMAGE OF PALETTE HERE!!!!!!!!!!!!!!!!!!!!!">
 
-####    Typography
+- ####    Typography
+    - The main font I have chosen is 'Roboto' It is easy to read, stands out and will hopefully remind users of an easy to read book. I will use sans-serif as a backup font.
 
-####    Imagery
+    - The secondary font used is 'PT Serif' to help headings and titels to stand out from the rest of the text.
+
+- ####    Imagery
 
 
-### Wireframes
+- ### Wireframes
 
     - Home Page Wireframe
 
