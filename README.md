@@ -64,8 +64,8 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
 
     - The secondary font used is 'PT Serif' to help headings and titels to stand out from the rest of the text.
 
-- ####    Imagery
-
+- ####    Images (Needs more ones images decided upon!!!!!!)
+    - The main use of images for this website will be the ones used for book covers. As none of the books on the website are real I will have to acquire some suitable ones.
 
 - ### Wireframes
 
