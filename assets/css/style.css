@@ -11,11 +11,11 @@
 /* --------------------------------------------Heading */
 
 body{
-    font-family: Roboto;
+    font-family: "Roboto", sans-serif;
 }
 
 h2{
-    font-family: PT-Serif;
+    font-family: "PT-Serif", sans-serif;
 }
 
 #name{
@@ -24,8 +24,8 @@ h2{
     letter-spacing: 5px;
 }
 
-#menu{
-    
+#menu li{
+    margin-right: 10px;
     float: right;
     font-size: 120%;
     list-style-type: none;
