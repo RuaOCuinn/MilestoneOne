@@ -8,6 +8,15 @@
 
 /* --------------------------------------------Colours */
 
+.bg-colour-header{
+    background-color: #3f2413;
+    height: 100px;
+}
+
+#menu a{
+    color: #afbe8f;
+}
+
 /* --------------------------------------------Heading */
 
 body{
@@ -19,12 +28,14 @@ h2{
 }
 
 #name{
+    color: #afbe8f;
     text-align: center;
     font-size: 260%;
     letter-spacing: 5px;
 }
 
 #menu li{
+    color: #afbe8f;
     margin-right: 10px;
     float: right;
     font-size: 120%;
