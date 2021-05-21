@@ -4,20 +4,29 @@
     margin:0;
     padding: 0;
     border: 0;
-    list-style: none;
-    text-decoration: none;
-    color: red;
 }
 
 /* --------------------------------------------Colours */
 
 /* --------------------------------------------Heading */
 
-.heading {
-    width: 100%;
-    height: 80px;
+body{
+    font-family: Roboto;
 }
 
-.name {
+h2{
+    font-family: PT-Serif;
+}
+
+#name{
     text-align: center;
+    font-size: 260%;
+    letter-spacing: 5px;
+}
+
+#menu{
+    
+    float: right;
+    font-size: 120%;
+    list-style-type: none;
 }
