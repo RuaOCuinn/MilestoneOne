@@ -76,7 +76,18 @@ footer {
     padding: 0 6px;
 }
 
-.social-links-footer a {
+.rights {
+    font-size: 70%;
+    margin-left: 20px
+}
+
+.social-links-footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.social-links-footer i {
     text-align: center;
 }
 
