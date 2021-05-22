@@ -8,16 +8,20 @@
 
 /* --------------------------------------------Colours */
 
-.bg-colour-header {
+header {
     background-color: black;
-    
+}
+
+footer {
+    background-color: black;
+    color: #85898c;
 }
 
 #menu a {
     color: #85898c;
 }
 
-/* --------------------------------------------Heading */
+/* --------------------------------------------Header */
 
 body {
     font-family: "Roboto", sans-serif;
@@ -40,11 +44,43 @@ body {
     list-style-type: none;
 }
 
-#social-links li {
+#social-links-header li {
     float:right;
 }
 
-#social-links li a i {
+#social-links-header li a i {
+    width: 30px;
+    height: 30px;
+    padding: 15px 20px;
+    font-size: 120%;
+    border-radius: 50%;
+    color: #85898c;
+}
+
+/* --------------------------------------------Footer */
+
+footer {
+    margin: 0;
+}
+
+.policy {
+    background-color: #a3001e;
+    background-size: auto 12px;
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+.policy a {
+    color: #85898c;
+    display: inline-block;
+    padding: 0 6px;
+}
+
+.social-links-footer a {
+    text-align: center;
+}
+
+.social-links-footer li a i {
     width: 30px;
     height: 30px;
     padding: 15px 20px;
