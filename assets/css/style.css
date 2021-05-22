@@ -30,7 +30,7 @@ body {
     font-size: 260%;
     letter-spacing: 5px;
     font-weight: bold;
-    margin: 20px;
+    padding-bottom: 10px;
 }
 
 #menu li {
@@ -47,7 +47,7 @@ body {
 #social-links li a i {
     width: 30px;
     height: 30px;
-    margin: 15px 20px 0 0;
+    padding: 15px 20px;
     font-size: 120%;
     border-radius: 50%;
     color: #85898c;
