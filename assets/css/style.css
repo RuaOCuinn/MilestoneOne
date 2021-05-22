@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;500&family=PT+Serif:wght@400;700&display=swap');
 
-*{
+* {
     margin:0;
     padding: 0;
     border: 0;
@@ -8,36 +8,47 @@
 
 /* --------------------------------------------Colours */
 
-.bg-colour-header{
-    background-color: #3f2413;
-    height: 100px;
+.bg-colour-header {
+    background-color: black;
+    
 }
 
-#menu a{
-    color: #afbe8f;
+#menu a {
+    color: #85898c;
 }
 
 /* --------------------------------------------Heading */
 
-body{
+body {
     font-family: "Roboto", sans-serif;
 }
 
-h2{
+.name {
     font-family: "PT-Serif", sans-serif;
-}
-
-#name{
-    color: #afbe8f;
+    color: #85898c;
     text-align: center;
     font-size: 260%;
     letter-spacing: 5px;
+    font-weight: bold;
+    margin: 20px;
 }
 
-#menu li{
-    color: #afbe8f;
+#menu li {
     margin-right: 10px;
     float: right;
     font-size: 120%;
     list-style-type: none;
+}
+
+#social-links li {
+    float:right;
+}
+
+#social-links li a i {
+    width: 30px;
+    height: 30px;
+    margin: 15px 20px 0 0;
+    font-size: 120%;
+    border-radius: 50%;
+    color: #85898c;
 }
