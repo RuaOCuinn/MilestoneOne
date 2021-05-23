@@ -60,12 +60,19 @@ body {
 /* --------------------------------------------Footer */
 
 footer {
-    margin: 0;
+    margin: 0px;
+    height: auto;
+}
+
+.footer-left {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
 }
 
 .policy {
     background-color: #a3001e;
-    background-size: auto 12px;
+    background-size: 6px 12px;
     margin-left: 20px;
     text-decoration: none;
 }
@@ -81,8 +88,15 @@ footer {
     margin-left: 20px
 }
 
-.social-links-footer i {
+.footer-center {
+    margin-top: 20px;
+}
+
+.social-links-footer {
     text-align: center;
+}
+
+.social-links-footer i {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -96,16 +110,24 @@ footer {
     border-radius: 50%;
     color: #85898c;
 }
-/*
-#host a{
-    display: flex;
-    justify-content: flex-end;
-} */
 
-div .host p{
-  position: absolute;
-  right: 0;
-  width: 100px;
-  height: 120px;
-  border: 3px solid blue;
-} 
+.footer-right {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.host {
+    display: flex;
+    justify-content: center;
+}
+
+.host-link {
+    display: flex;
+    justify-content: center;
+}
+
+.host a {
+    color: #85898c;
+    text-decoration: underline;
+}
