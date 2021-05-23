@@ -59,6 +59,13 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
 
         <img src="INSERT IMAGE OF PALETTE HERE!!!!!!!!!!!!!!!!!!!!!">
 
+- ####    Colour Scheme
+    - The colours used for the website were chosen in an attempt to pull the user into the dark fantasy worlds created by the author; worlds where darkness is prevelant and the grey steel of swords and spears rules. 
+    I have therefor chosen a base color of black with a secondary grey color (#85898c). It is my hope that these basic colours will also work well to not clash with the different colours of the author's book covers displayed on the website.
+    And Ruby Red (#a3001e) for that hint of blood and feeling of danger.
+
+        <img src="INSERT IMAGE OF PALETTE HERE!!!!!!!!!!!!!!!!!!!!!">
+
 - ####    Typography
     - The main font I have chosen is 'Roboto' It is easy to read, stands out and will hopefully remind users of an easy to read book. I will use sans-serif as a backup font.
 
