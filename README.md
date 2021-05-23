@@ -53,13 +53,6 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
 ### Design
 
 - ####    Colour Scheme
-    - The colours used for the website were chosen in an attempt to pull the user into the fantastical worlds created by the author; worlds where nature is still prevelant with all its natural green's and browns
-     but also where blood is freely spilled by the characters created therein.
-     To this effect I have chosen a mixture of Bistre bark brown (#3f2413), Rifle Green (#404634) and Laurel Green (#afbe8f) for that immersive feeling of nature. And Ruby Red (#a3001e) for that hint of blood and feeling of danger.
-
-        <img src="INSERT IMAGE OF PALETTE HERE!!!!!!!!!!!!!!!!!!!!!">
-
-- ####    Colour Scheme
     - The colours used for the website were chosen in an attempt to pull the user into the dark fantasy worlds created by the author; worlds where darkness is prevelant and the grey steel of swords and spears rules. 
     I have therefor chosen a base color of black with a secondary grey color (#85898c). It is my hope that these basic colours will also work well to not clash with the different colours of the author's book covers displayed on the website.
     And Ruby Red (#a3001e) for that hint of blood and feeling of danger.
