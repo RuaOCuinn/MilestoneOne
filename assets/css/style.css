@@ -81,14 +81,11 @@ footer {
     margin-left: 20px
 }
 
-.social-links-footer {
+.social-links-footer i {
+    text-align: center;
     display: flex;
     align-items: center;
     justify-content: center;
-}
-
-.social-links-footer i {
-    text-align: center;
 }
 
 .social-links-footer li a i {
@@ -99,3 +96,16 @@ footer {
     border-radius: 50%;
     color: #85898c;
 }
+/*
+#host a{
+    display: flex;
+    justify-content: flex-end;
+} */
+
+div .host p{
+  position: absolute;
+  right: 0;
+  width: 100px;
+  height: 120px;
+  border: 3px solid blue;
+} 
