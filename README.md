@@ -68,16 +68,17 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
     - The main use of images for this website will be the ones used for book covers. As none of the books on the website are real I will have to acquire some suitable ones.
 
 - #### Wireframes
-    - All wireframes were made using Balsamiq. */ at the time of writing this the wireframes are only 3/4 of the way complete /*
-    - Home Page Wireframe
-
-        <img src="./assets/images/readme-images/desktop-wire.png" />
-
+    - All wireframes were made using Balsamiq.
+    
     - Mobile Wireframe
 
         <img src="./assets/images/readme-images/mobile-wire.png" />
 
-<a name="features></a>
+    - Home Page Wireframe
+
+        <img src="./assets/images/readme-images/desktop-wire.png" />
+
+<a name="features"></a>
 ## Features
 
     - Homepage
@@ -86,6 +87,7 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
 
     - About Oscar
 
+<a name="technologies"></a>
 ## Technologies Used
 
 ### Languages Used
@@ -95,12 +97,15 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
 
 ### Frameworks, Libraries & Programs Used
 
+* [Bootstrap v4.5.0](https://getbootstrap.com/)
+* [Font Awesome](https://fontawesome.com/) - Font Awesome was used to add social icons and complement the design.
+* [Google Fonts](https://fonts.google.com/) - Google Fonts was used to import 'Roboto' and 'PT Sarif' fonts in the main.css stylesheet.
 * [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 * [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
 * [Balsamiq] - (https://balsamiq.com/)
-    - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
+    - Balsamiq was used to create the [wireframes]
 
 ## Testing
 
