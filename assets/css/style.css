@@ -7,7 +7,6 @@
 }
 
 /* --------------------------------------------Colours */
-
 header {
     background-color: black;
 }
@@ -17,9 +16,6 @@ footer {
     color: #85898c;
 }
 
-#menu a {
-    color: #85898c;
-}
 
 /* --------------------------------------------Header */
 
@@ -27,33 +23,31 @@ body {
     font-family: "Roboto", sans-serif;
 }
 
-.name {
+#name {
+    display: flex;
+    justify-content: center;
     font-family: "PT-Serif", sans-serif;
     color: #85898c;
-    text-align: center;
-    font-size: 260%;
-    letter-spacing: 5px;
     font-weight: bold;
-    padding-bottom: 10px;
-}
-
-#menu li {
-    margin-right: 10px;
-    float: right;
-    font-size: 120%;
-    list-style-type: none;
-}
-
-#social-links-header li {
-    float:right;
+    letter-spacing: 5px;
 }
 
 #social-links-header li a i {
     width: 30px;
     height: 30px;
-    padding: 15px 20px;
+    padding: 15px 10px;
+    margin-right: 10px;
     font-size: 120%;
     border-radius: 50%;
+    color: #85898c;
+}
+
+.menu li {
+    font-size: 120%;
+    list-style-type: none;
+}
+
+.menu a {
     color: #85898c;
 }
 
