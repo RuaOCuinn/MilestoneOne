@@ -73,7 +73,7 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
 
     - Mobile Wireframe
 
-    - Tablet Wireframe
+        <img src="./assets/images/readme-images/desktop-wire.png" />
 
 <a name="features></a>
 ## Features
