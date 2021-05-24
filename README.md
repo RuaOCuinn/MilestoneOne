@@ -71,9 +71,11 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
     - All wireframes were made using Balsamiq. */ at the time of writing this the wireframes are only 3/4 of the way complete /*
     - Home Page Wireframe
 
+        <img src="./assets/images/readme-images/desktop-wire.png" />
+
     - Mobile Wireframe
 
-        <img src="./assets/images/readme-images/desktop-wire.png" />
+        <img src="./assets/images/readme-images/mobile-wire.png" />
 
 <a name="features></a>
 ## Features
