@@ -9,18 +9,18 @@
 /* --------------------------------------------Colours */
 
 header {
-    max-width: 1400px;
+    max-width: 1500px;
     background-color: black;
 }
 
 footer {
-    max-width: 1400px;
+    max-width: 1500px;
     background-color: black;
     color: #85898c;
 }
 
 section {
-    max-width: 1400px;
+    max-width: 1500px;
     background-color: #EFF7CF;
 }
 
@@ -184,3 +184,40 @@ footer {
     color: #85898c;
     text-decoration: underline;
 }
+
+/* --------------------------------------------Media Queries */
+
+@media screen and (max-width: 778px) {
+#name {
+    font-size: 240%;
+    display: flex;
+    justify-content: center;
+    }
+}
+
+@media screen and (max-width: 400px) {
+#name {
+    font-size: 190%;
+    display: flex;
+    justify-content: center;
+    }
+}
+
+@media(min-width:768px){
+.navbar-toggler {
+        display:none;
+      }
+    }
+
+@media(max-width:768px){
+.navbar {
+      display: flex;
+    justify-content: flex-end;
+      }
+    }
+
+@media(max-width:768px){
+      .menu{
+        display:none;
+      }
+    }
