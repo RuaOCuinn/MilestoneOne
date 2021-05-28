@@ -8,6 +8,10 @@
 
 /* --------------------------------------------Colours */
 
+body {
+    font-family: "Roboto", sans-serif;
+}
+
 header {
     max-width: 1500px;
     background-color: black;
@@ -27,16 +31,13 @@ section {
 
 /* --------------------------------------------Header */
 
-body {
-    font-family: "Roboto", sans-serif;
-}
-
 #name {
     display: flex;
     justify-content: center;
     font-family: "PT-Serif", sans-serif;
     color: #85898c;
     font-weight: bold;
+    margin: 15px;
     letter-spacing: 5px;
 }
 
