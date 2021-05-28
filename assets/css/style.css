@@ -60,6 +60,41 @@ section {
     color: #85898c;
 }
 
+@media screen and (max-width: 778px) {
+#name {
+    font-size: 240%;
+    display: flex;
+    justify-content: center;
+    }
+}
+
+@media screen and (max-width: 400px) {
+#name {
+    font-size: 190%;
+    display: flex;
+    justify-content: center;
+    }
+}
+
+@media screen and (min-width:767px){
+.navbar-toggler {
+    display:none;
+    }
+}
+
+@media screen and (max-width:768px){
+.navbar {
+    display: flex;
+    justify-content: flex-end;
+    }
+}
+
+@media screen and (max-width:767px){
+.menu{
+    display:none;
+    }
+}
+
 /* --------------------------------------------Progress Section */
 
 .progress {
@@ -96,6 +131,10 @@ section {
     background-color: black;
 }
 
+.navbar-toggler {
+    margin-bottom: 8px;
+}
+
 #writing-progress-title {
     display: flex;
     justify-content: center;
@@ -106,6 +145,19 @@ section {
     margin: 20px 0;
     letter-spacing: 5px;
     font-style: italic;
+}
+
+@media screen and (max-width:360px) {
+#writing-progress-title {
+    font-size: 125%;
+    }
+}
+
+@media screen and (max-width:1200px) {
+.writing-progress {
+    display: flex;
+    justify-content: center;
+    }
 }
 
 #profile-image {
@@ -120,13 +172,6 @@ section {
     }
 }
 
-@media screen and (max-width:1200px) {
-.writing-progress {
-    display: flex;
-    justify-content: center;
-    }
-}
-
 /* --------------------------------------------Footer */
 
 footer {
@@ -138,12 +183,13 @@ footer {
     margin-top: 20px;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .policy {
     background-color: #a3001e;
     background-size: 6px 12px;
-    margin-left: 20px;
+    margin: 5px 0 0 20px;
     text-decoration: none;
 }
 
@@ -160,6 +206,8 @@ footer {
 
 .footer-center {
     margin-top: 20px;
+    justify-content: center;
+    align-items: center;
 }
 
 .social-links-footer {
@@ -185,6 +233,7 @@ footer {
     margin-top: 20px;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .host {
@@ -200,41 +249,4 @@ footer {
 .host a {
     color: #85898c;
     text-decoration: underline;
-}
-
-/* --------------------------------------------Media Queries */
-
-@media screen and (max-width: 778px) {
-#name {
-    font-size: 240%;
-    display: flex;
-    justify-content: center;
-    }
-}
-
-@media screen and (max-width: 400px) {
-#name {
-    font-size: 190%;
-    display: flex;
-    justify-content: center;
-    }
-}
-
-@media screen and (min-width:768px){
-.navbar-toggler {
-    display:none;
-    }
-}
-
-@media screen and (max-width:768px){
-.navbar {
-    display: flex;
-    justify-content: flex-end;
-    }
-}
-
-@media screen and (max-width:768px){
-.menu{
-    display:none;
-    }
 }
