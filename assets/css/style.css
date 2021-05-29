@@ -75,25 +75,7 @@ section {
     justify-content: center;
     }
 }
-
-@media screen and (min-width:767px){
-.navbar-toggler {
-    display:none;
-    }
-}
-
-@media screen and (max-width:768px){
-.navbar {
-    display: flex;
-    justify-content: flex-end;
-    }
-}
-
-@media screen and (max-width:767px){
-.menu{
-    display:none;
-    }
-}
+/*
 
 /* --------------------------------------------Progress Section */
 
