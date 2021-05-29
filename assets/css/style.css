@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;500&family=PT+Serif:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;500&family=PT+Serif:wght@400;700&display=swap&family=Crimson+Text:wght@400;700&display=swap');
 
 * {
     margin:0;
@@ -31,6 +31,12 @@ section .writing-progress {
 section {
     max-width: 1500px;
     background-color: #999596;
+}
+
+section {
+    border-style: double;
+    border-width: 1px;
+    border-color: black;
 }
 
 
@@ -130,14 +136,14 @@ section {
     text-decoration: underline;
     font-family: "PT-Serif", sans-serif;
     color: #a3001e;
-    font-size: 190%;
+    font-size: 175%;
     font-weight: bold;
     margin: 20px 0;
     letter-spacing: 5px;
     font-style: italic;
 }
 
-@media screen and (max-width:378px) {
+@media screen and (max-width:411px) {
 #writing-progress-title {
     font-size: 135%;
     }
@@ -175,17 +181,67 @@ section {
     margin: 20px 0;
     letter-spacing: 5px;
     font-style: italic;
-    font-size: 190%;
+    font-size: 175%;
 }
 
-@media screen and (max-width:378px) {
+@media screen and (max-width:411px) {
 #recently-published {
     font-size: 135%;
     }
 }
 
+@media screen and (max-width:320px) {
+#recently-published {
+    font-size: 115%;
+    }
+}
+
 .img-fluid {
-    margin: 15px 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px 0 15px 0;
+    padding: 0 15px 15px 15px;
+}
+
+.synopsis-quotes {
+    margin-top: 10px;
+    padding-left: 20px;
+}
+
+.synopsis {
+    color: #a3001e;
+    font-weight: bold;
+}
+
+.synopsis-text {
+    font-family: "Crimson Text", sans-serif;
+    font-style: italic;
+    font-size: 130%;
+    padding-right: 10px;
+}
+
+.quotes {
+    color: #a3001e;
+    font-weight: bold;
+}
+
+.quotes-text {
+    font-family: "Crimson Text", sans-serif;
+    font-size: 130%;
+    padding-right: 10px;
+}
+
+.buy-now {
+    background-color: #a3001e;
+    margin-bottom: 5px;
+    text-decoration: none;
+}
+
+.buy-now a {
+    color: #85898c;
+    display: inline-block;
+    padding: 0 6px;
 }
 
 /* --------------------------------------------Footer */
