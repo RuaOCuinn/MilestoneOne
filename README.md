@@ -97,15 +97,14 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
 
 ### Frameworks, Libraries & Programs Used
 
-* [Bootstrap v4.5.0](https://getbootstrap.com/)
+* [Bootstrap v4.2.1 & v4.7.0](https://getbootstrap.com/)
 * [Font Awesome](https://fontawesome.com/) - Font Awesome was used to add social icons and complement the design.
 * [Google Fonts](https://fonts.google.com/) - Google Fonts was used to import 'Roboto' and 'PT Sarif' fonts in the main.css stylesheet.
-* [Git](https://git-scm.com/)
-    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-* [GitHub:](https://github.com/)
-    - GitHub is used to store the projects code after being pushed from Git.
-* [Balsamiq] - (https://balsamiq.com/)
-    - Balsamiq was used to create the [wireframes]
+* [Git](https://git-scm.com/) - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+* [GitHub:](https://github.com/) - GitHub is used to store the projects code after being pushed from Git.
+* [Balsamiq](https://balsamiq.com/) - Balsamiq was used to create the [wireframes].
+* [Paint 3D](https://balsamiq.com/) - Microsoft app Paint 3D was used to edit some of the images for the book covers.
+* [jquery v3.5.1](https://getbootstrap.com/) - retrieved from a bootstrap example.
 
 ## Testing
 
@@ -124,6 +123,8 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
 ### Making a Local Clone
 
 ## Credits
+
+* [pexels](https://pexels.com/) - images for books covers taken from this site.
 
 ### Code
 
