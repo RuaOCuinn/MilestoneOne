@@ -36,6 +36,12 @@ section {
 
 /* --------------------------------------------Header */
 
+#hero-image {
+    height: 100%;
+    width: 100%;
+    background: url(../images/background-images/parchment.png) no-repeat center center;
+}
+
 #name {
     display: flex;
     justify-content: center;
@@ -161,12 +167,6 @@ section {
 
 /* --------------------------------------------Recently Published Section */
 
-#hero-image {
-    height: 100%;
-    width: 100%;
-    background: url(../images/background-images/parchment.png) no-repeat center center;
-}
-
 #recently-published {
     display: flex;
     justify-content: center;
@@ -196,6 +196,21 @@ section {
 .h2, h2 {
     font-size: 1.4rem;
 }
+}
+
+#cover-image-outer {
+    animation-name: cover-image;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes cover-image {
+    from{
+        transform: scale(1.05);
+    }
+    to{
+        transform: scale(1);
+    }
 }
 
 .img-fluid {
