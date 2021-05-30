@@ -164,6 +164,17 @@ section {
 
 /* --------------------------------------------Recently Published & Books Section */
 
+.books {
+    margin-top: 10px;
+    padding: 0 9rem 3rem;
+}
+
+@media screen and (max-width:800px) {
+.books {
+    padding: 0 1.7rem 1rem;
+}
+}
+
 #recently-published {
     display: flex;
     justify-content: center;
@@ -260,7 +271,7 @@ section {
 }
 
 .buy-now a {
-    color: black;
+    color: #85898c;
     display: inline-block;
     padding: 0 6px;
 }
@@ -275,7 +286,16 @@ hr.rounded {
 
 .events {
     min-height: 700px;
+}
+.events-table {
+    margin-top: 10px;
+    padding: 0 9rem 3rem;
+}
 
+@media screen and (max-width:800px) {
+.events-table {
+    padding: 0 1.7rem 1rem;
+}
 }
 
 #events-title {
@@ -330,7 +350,30 @@ hr.rounded {
 
 /* --------------------------------------------Bio */
 
+.early-years {
+    margin-top: 10px;
+    padding: 0 9rem 3rem;
+}
 
+@media screen and (max-width:800px) {
+.early-years {
+    padding: 0 1.7rem 1rem;
+}
+}
+
+.bio-title {
+    color: #a3001e;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.life {
+    font-family: "Crimson Text", sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 130%;
+    padding-right: 15px;
+}
 
 /* --------------------------------------------Footer */
 
