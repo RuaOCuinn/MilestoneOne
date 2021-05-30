@@ -162,7 +162,7 @@ section {
     }
 }
 
-/* --------------------------------------------Recently Published Section */
+/* --------------------------------------------Recently Published & Books Section */
 
 #recently-published {
     display: flex;
@@ -327,6 +327,10 @@ hr.rounded {
     color: #a3001e;
     font-weight: bold;
 }
+
+/* --------------------------------------------Bio */
+
+
 
 /* --------------------------------------------Footer */
 
