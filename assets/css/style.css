@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;500&family=PT+Serif:wght@400;700&display=swap&family=Crimson+Text:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;500;600;700&family=PT+Serif:wght@300;400;500;600;700&display=swap&family=Crimson+Text:wght@400;700&display=swap');
 
 * {
     margin:0;
@@ -23,14 +23,8 @@ footer {
     color: #85898c;
 }
 
-section .writing-progress {
-    max-width: 1500px;
-    background-color: #999596;
-}
-
 section {
     max-width: 1500px;
-    background-color: #999596;
 }
 
 section {
@@ -49,7 +43,7 @@ section {
     color: #85898c;
     font-weight: bold;
     margin: 30px 0 15px 0;
-    letter-spacing: 5px;
+    letter-spacing: 3px;
 }
 
 
@@ -103,10 +97,10 @@ section {
 
 .progress-section h5 {
     color: #a3001e;
-    font-weight: bold;
     padding: 4px 30px 0px 10px;
     margin: 0 0 2px 15px;
     font-style: italic;
+    font-weight: bold;
 }
 
 .progress-type {
@@ -134,16 +128,16 @@ section {
     font-family: "PT-Serif", sans-serif;
     color: #a3001e;
     font-size: 175%;
-    font-weight: bold;
     margin: 20px 0;
-    letter-spacing: 5px;
-    font-style: italic;
+    letter-spacing: 3px;
 }
 
-@media screen and (max-width:411px) {
-#writing-progress-title {
-    font-size: 135%;
-    }
+#writing-progress-title h2 {
+    font-weight: bold;
+}
+
+.fa-pencil-square-o {
+    text-decoration: none;
 }
 
 @media screen and (max-width:1200px) {
@@ -167,6 +161,12 @@ section {
 
 /* --------------------------------------------Recently Published Section */
 
+#hero-image {
+    height: 100%;
+    width: 100%;
+    background: url(../images/background-images/parchment.png) no-repeat center center;
+}
+
 #recently-published {
     display: flex;
     justify-content: center;
@@ -174,23 +174,28 @@ section {
     text-decoration: underline;
     font-family: "PT-Serif", sans-serif;
     color: #a3001e;
-    font-weight: bold;
     margin: 20px 0;
-    letter-spacing: 5px;
-    font-style: italic;
+    letter-spacing: 3px;
+    font-weight: bold;
     font-size: 175%;
 }
 
-@media screen and (max-width:411px) {
-#recently-published {
-    font-size: 135%;
-    }
+#recently-published h2 {
+    font-weight: bold;
+}
+
+.fa-book {
+    text-decoration: none;
+}
+
+.h2, h2 {
+    font-size: 1.7rem;
 }
 
 @media screen and (max-width:320px) {
-#recently-published {
-    font-size: 115%;
-    }
+.h2, h2 {
+    font-size: 1.4rem;
+}
 }
 
 .img-fluid {
@@ -209,10 +214,12 @@ section {
 .synopsis {
     color: #a3001e;
     font-weight: bold;
+    font-style: italic;
 }
 
 .synopsis-text {
     font-family: "Crimson Text", sans-serif;
+    font-weight: bold;
     font-style: italic;
     font-size: 130%;
     padding-right: 10px;
@@ -221,10 +228,12 @@ section {
 .quotes {
     color: #a3001e;
     font-weight: bold;
+    font-style: italic;
 }
 
 .quotes-text {
     font-family: "Crimson Text", sans-serif;
+    font-weight: bold;
     font-size: 130%;
     padding-right: 10px;
 }
@@ -233,16 +242,18 @@ section {
     background-color: #a3001e;
     margin-bottom: 15px;
     text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
 }
 
 .buy-now a {
-    color: #85898c;
+    color: black;
     display: inline-block;
     padding: 0 6px;
 }
 
 hr.rounded {
-  border-top: 8px solid #bbb;
+  border-top: 4px solid black;
   border-radius: 5px;
   padding: 5px;
 }
