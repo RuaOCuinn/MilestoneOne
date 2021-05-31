@@ -39,7 +39,7 @@ section {
     font-family: "PT-Serif", sans-serif;
     color: #85898c;
     font-weight: bold;
-    margin: 40px 0 0 0;
+    margin: 20px 0 0 0;
     letter-spacing: 3px;
 }
 
@@ -169,7 +169,13 @@ section {
     padding: 0 9rem 3rem;
 }
 
-@media screen and (max-width:800px) {
+@media screen and (max-width:1200px) {
+.books {
+    padding: 0 4rem 2rem;
+}
+}
+
+@media screen and (max-width:768px) {
 .books {
     padding: 0 1.7rem 1rem;
 }
@@ -226,8 +232,7 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 15px 0 15px 0;
-    padding: 0 15px 15px 15px;
+    margin: 15px 15px 15px 0;
 }
 
 .synopsis-quotes {
@@ -235,7 +240,8 @@ section {
     padding-left: 20px;
 }
 
-.synopsis {
+.synopsis-title {
+    font-family: "PT-Serif", sans-serif;
     color: #a3001e;
     font-weight: bold;
     font-style: italic;
@@ -249,7 +255,8 @@ section {
     padding-right: 15px;
 }
 
-.quotes {
+.quotes-title {
+    font-family: "PT-Serif", sans-serif;
     color: #a3001e;
     font-weight: bold;
     font-style: italic;
@@ -292,7 +299,7 @@ hr.rounded {
     padding: 0 9rem 3rem;
 }
 
-@media screen and (max-width:800px) {
+@media screen and (max-width:768px) {
 .events-table {
     padding: 0 1.7rem 1rem;
 }

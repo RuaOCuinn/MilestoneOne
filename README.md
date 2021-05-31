@@ -55,17 +55,21 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
 - ####    Colour Scheme
     - The colours used for the website were chosen in an attempt to pull the user into the dark fantasy worlds created by the author; worlds where darkness is prevelant and the grey steel of swords and spears rules. 
     I have therefor chosen a base color of black with a secondary grey color (#85898c). It is my hope that these basic colours will also work well to not clash with the different colours of the author's book covers displayed on the website.
-    And Ruby Red (#a3001e) for that hint of blood and feeling of danger.
+    Ruby Red (#a3001e) is adde throughout for that hint of blood and feeling of danger.
 
-        <img src="INSERT IMAGE OF PALETTE HERE!!!!!!!!!!!!!!!!!!!!!">
+        <img src="./assets/images/readme-images/colour-palette.png" height="40px" />
 
 - ####    Typography
     - The main font I have chosen is 'Roboto' It is easy to read, stands out and will hopefully remind users of an easy to read book. I will use sans-serif as a backup font.
 
     - The secondary font used is 'PT Serif' to help headings and titels to stand out from the rest of the text.
 
-- ####    Images (Needs more ones images decided upon!!!!!!)
-    - The main use of images for this website will be the ones used for book covers. As none of the books on the website are real I will have to acquire some suitable ones.
+    - 'Crimson+Text' was added to the main text for the synopsis, quotes and bio sections to make the longer paragraphs more stylish and exciting to read.
+
+- ####    Images
+    - The main use of images for this website will be the ones used for book covers. As none of the books on the website are real I have taken some images from (https://www.pexels.com/) and added some text over them for the Author's name and Book Title.
+
+    - An image of faded parchment - also from (https://www.pexels.com/) - such as might have been used for maps in ancient times, was used for the background of the pages sections. Again this is used to draw the user into the authors fantastical worlds.
 
 - #### Wireframes
     - All wireframes were made using Balsamiq.
