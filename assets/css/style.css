@@ -30,6 +30,10 @@ section {
     border-color: black;
 }
 
+.btn-primary {
+    background-color: #a3001e;
+}
+
 
 /* --------------------------------------------Header */
 
@@ -269,18 +273,8 @@ section {
     padding-right: 10px;
 }
 
-.buy-now {
-    background-color: #a3001e;
-    margin-bottom: 15px;
-    text-decoration: none;
-    font-weight: bold;
-    border-radius: 5px;
-}
-
-.buy-now a {
-    color: #85898c;
-    display: inline-block;
-    padding: 0 6px;
+.btn a {
+    color: #fff;
 }
 
 hr.rounded {
@@ -380,6 +374,42 @@ hr.rounded {
     font-style: italic;
     font-size: 130%;
     padding-right: 15px;
+}
+
+/* --------------------------------------------Contact */
+
+section .container {
+    max-width: 80%;
+    max-height: 80%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 15px 0;
+}
+
+@media screen and (min-width: 1200px) {
+.container {
+    max-width: 80%;
+}
+}
+
+@media screen and (min-width: 992px) {
+.container {
+    max-width: 80%;
+}
+}
+
+@media screen and (min-width: 768px) {
+.container {
+    max-width: 80%;
+}
+}
+
+@media screen and (min-width: 576px) {
+.container {
+    max-width: 80%;
+}
 }
 
 /* --------------------------------------------Footer */

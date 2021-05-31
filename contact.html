@@ -34,7 +34,7 @@
                                         <a class="nav-link" href="index.html">Home</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link active" href="books.html">Books</a>
+                                        <a class="nav-link" href="books.html">Books</a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" href="events.html">Events</a>
@@ -43,7 +43,7 @@
                                         <a class="nav-link" href="bio.html">Bio</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="contact.html">Contact</a>
+                                        <a class="nav-link active" href="contact.html">Contact</a>
                                     </li>
                                 </ul>
                             </div>
@@ -134,77 +134,37 @@
         </div>
     </section>
 
-    <section class="container-fluid" id="hero-image">
+    <section id="hero-image">
             <div class="row">
-                <div class="col" id="recently-published">
-                    <h2><i class="fa fa-book" aria-hidden="true"></i>Published Works</h2>
+                <div class="col" id="events-title">
+                    <h2><i class="fa fa-envelope-o" aria-hidden="true"></i>Contact Oscar</h2>
                 </div>
             </div>
-            <div class="row books">
-                <div class="col-md-auto" id="cover-image-outer">
-                    <img class="img-fluid" alt="Bloodstone: Book Two" src="./assets/images/books-images/bloodstone2.png" />
+            <form class="container">
+                <div class="form-group">
+                    <label for="email">Email address*</label>
+                    <input type="email" class="form-control" id="email" aria-describedby="emailHelp" required>
                 </div>
-                <div class="col synopsis-quotes">
-                    <h4 class="synopsis-title">
-                        Synopsis <i class="fa fa-globe" aria-hidden="true"></i>
-                    </h4>
-                    <p class="synopsis-text">
-                        Gloria struggles on through trials and tribulations to what awaits beneath. Tobias battles it out with the giants of the south perhaps having finally met his match, as Ivan trees and stone asunder in search of what he's lost, though Glama discovers more depth lies to her powers than anyone could ever have expected.
-                    </p>
-                    <p class="synopsis-text">
-                        What came before is gone to dust. New heroes must rise up and grasp the lives they want from those refusing to let go.
-                    </p>
-                    <p class="synopsis-text">
-                        The Second book of the Bloodstone trilogy.
-                    </p>
-                    <h4 class="quotes-title">
-                        Quotes <i class="fa fa-commenting-o" aria-hidden="true"></i>
-                    </h4>
-                    <p class="quotes-text">
-                        George R. R. Martin - "Incredible. I couldn't stop reading."
-                    </p>
-                    <p class="quotes-text">
-                        Patrick Rothfuss - "Fuck me! Now that's a book!"
-                    </p>
-                    <p class="quotes-text">
-                        Robin Hobb - "Meh, not bad.."
-                    </p>
-                    <button class="btn btn-primary"><a href="#" target="_blank">Buy Now</a></button>
+                <div class="row form-group">
+                    <div class="col">
+                        <label for="email">First Name*</label>
+                        <input type="text" class="form-control" required>
+                    </div>
+                    <div class="col">
+                        <label for="email">Last Name*</label>
+                        <input type="text" class="form-control" required>
+                    </div>
                 </div>
-            </div>
-            <hr class="rounded">
-            <div class="row books">
-                <div class="col-md-auto" id="cover-image-outer">
-                    <img class="img-fluid" alt="Confused Worship: Book One" src="./assets/images/books-images/confused-worship.png" />
+                <div class="form-group">
+                    <label for="password">Subject*</label>
+                    <input type="password" class="form-control" id="password" required>
                 </div>
-                <div class="col synopsis-quotes">
-                    <h4 class="synopsis-title">
-                        Synopsis <i class="fa fa-globe" aria-hidden="true"></i>
-                    </h4>
-                    <p class="synopsis-text">
-                        The sun has risen on what is to later be known as the first day. All over the world people are waking up with no memory of anything that has come before. Families lose ties to one another for without the memories of their lives together they have only shared houses and portraits to tell them they were once connected.
-                    </p>
-                    <p class="synopsis-text">
-                        What happened? That's the first memory everyone wants back.
-                    </p>
-                    <p class="synopsis-text">
-                        The first book in a Trilogy.
-                    </p>
-                    <h4 class="quotes-title">
-                        Quotes <i class="fa fa-commenting-o" aria-hidden="true"></i>
-                    </h4>
-                    <p class="quotes-text">
-                        George R. R. Martin - "Incredible. What a book cover!"
-                    </p>
-                    <p class="quotes-text">
-                        Patrick Rothfuss - "I read it twice normal, then once backwards. So good"
-                    </p>
-                    <p class="quotes-text">
-                        Robin Hobb - "I liked the bit in the middle near the end when it began."
-                    </p>
-                    <button class="btn btn-primary"><a href="#" target="_blank">Buy Now</a></button>
+                <div class="form-group">
+                    <label for="text-area">Message*</label>
+                    <textarea class="form-control" id="text-area" rows="4" required></textarea>
                 </div>
-            </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
     </section>
 
     <footer class="container-fluid">
