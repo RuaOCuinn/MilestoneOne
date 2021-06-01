@@ -6,7 +6,7 @@
     border: 0;
 }
 
-/* --------------------------------------------Colours */
+/* --------------------------------------------General */
 
 body {
     font-family: "Roboto", sans-serif;
@@ -170,18 +170,18 @@ section {
 
 .books {
     margin-top: 10px;
-    padding: 0 9rem 3rem;
+    padding: 0 4rem 3rem;
 }
 
 @media screen and (max-width:1200px) {
 .books {
-    padding: 0 4rem 2rem;
+    padding: 0 2rem 2rem;
 }
 }
 
 @media screen and (max-width:768px) {
 .books {
-    padding: 0 1.7rem 1rem;
+    padding: 0 .8rem 1rem;
 }
 }
 
@@ -209,6 +209,12 @@ section {
 
 .h2, h2 {
     font-size: 1.7rem;
+}
+
+@media screen and (max-width:360px) {
+.h2, h2 {
+    font-size: 1.6rem;
+}
 }
 
 @media screen and (max-width:320px) {
@@ -242,6 +248,7 @@ section {
 .synopsis-quotes {
     margin-top: 10px;
     padding-left: 20px;
+    float: right;
 }
 
 .synopsis-title {
@@ -379,8 +386,7 @@ hr.rounded {
 /* --------------------------------------------Contact */
 
 section .container {
-    max-width: 80%;
-    max-height: 80%;
+    max-width: 75%;
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
@@ -388,28 +394,26 @@ section .container {
     padding: 15px 0;
 }
 
-@media screen and (min-width: 1200px) {
-.container {
+@media screen and (max-width: 1200px) {
+section .container {
     max-width: 80%;
 }
 }
 
-@media screen and (min-width: 992px) {
-.container {
-    max-width: 80%;
+@media screen and (max-width: 992px) {
+section .container {
+    max-width: 90%;
 }
 }
 
-@media screen and (min-width: 768px) {
-.container {
-    max-width: 80%;
-}
+.form-group {
+    color: #a3001e;
+    font-weight: bold;
 }
 
-@media screen and (min-width: 576px) {
-.container {
-    max-width: 80%;
-}
+.form-text {
+    color: #a3001e;
+    font-weight: bold;
 }
 
 /* --------------------------------------------Footer */
