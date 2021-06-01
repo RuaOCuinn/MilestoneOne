@@ -32,8 +32,12 @@ section {
 
 .btn-primary {
     background-color: #a3001e;
+    border-color: #a3001e;
 }
 
+.btn a {
+    color: #fff;
+}
 
 /* --------------------------------------------Header */
 
@@ -280,10 +284,6 @@ section {
     padding-right: 10px;
 }
 
-.btn a {
-    color: #fff;
-}
-
 hr.rounded {
   border-top: 4px solid black;
   border-radius: 5px;
@@ -325,9 +325,6 @@ hr.rounded {
 }
 
 .signings h4 {
-    display: flex;
-    justify-content: left;
-    align-items: center;
     color: #a3001e;
     font-weight: bold;
     font-style: italic;
@@ -341,9 +338,6 @@ hr.rounded {
 }
 
 .interviews h4 {
-    display: flex;
-    justify-content: left;
-    align-items: center;
     color: #a3001e;
     font-weight: bold;
     font-style: italic;
@@ -430,7 +424,7 @@ footer {
     justify-content: center;
     align-items: center;
 }
-
+/*
 .policy {
     background-color: #a3001e;
     background-size: 6px 12px;
@@ -442,7 +436,7 @@ footer {
     color: #85898c;
     display: inline-block;
     padding: 0 6px;
-}
+} */
 
 .rights {
     font-size: 70%;
