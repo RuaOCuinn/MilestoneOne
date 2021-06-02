@@ -71,6 +71,8 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
 
     - An image of faded parchment - also from (https://www.pexels.com/) - such as might have been used for maps in ancient times, was used for the background of the pages sections. Again this is used to draw the user into the authors fantastical worlds.
 
+    - Other images constist of small icon images taken from (https://fontawesome.com/v4.7/) to add imagery to help convey meaning to heading and make them more fun.
+
 - #### Wireframes
     - All wireframes were made using Balsamiq. I have left up my original wireframes to show how the project changed shape as I worked through it.
     
@@ -87,18 +89,42 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
 
 ### Common Features
 
-    - Header - provides users with easy navigation throughout the webpage.
-        - The header is positioned using Bootsraps 'sticky-top' class. This keeps the navigation always within easy reach for the user.
-        - The navigation menu is positioned in the header because this is the most common location for it meaning the user will know exactly where to find it.
-        - Whichever page the user is currenlty on among the website will be underlined with a red line to show the user exactly where they are.
-        - The header title is the Author's name, Oscar Pearson, this is here to instantly reasure fans of the author that they are on the right page for all of his content.
-        - Colors were chosen to represent the fantasy author's dark world where powers lies with the strong. The black signifies the dark world and the colour grey of the writing is for the steel of swords and other weaponry.
-    - Links/Buttons - Any links hovered over will respond.
-        - The page navigation links in the header will change colour to a paler version of themselves.
-        - The background of the 'Buy Now' buttons will darken slightly when hovered over.
-    - 
+* Header - provides users with easy navigation throughout the webpage.
+    - The header is positioned using Bootsraps 'sticky-top' class. This keeps the navigation always within easy reach for the user.
+    - The navigation menu is positioned in the header because this is the most common location for it meaning the user will know exactly where to find it.
+    - Whichever page the user is currenlty on among the website will be underlined with a red line to show the user exactly where they are.
+    - The header title is the Author's name, Oscar Pearson, this is here to instantly reasure fans of the author that they are on the right page for all of his content.
+    - Colors were chosen to represent the fantasy author's dark world where powers lies with the strong. The black signifies the dark world and the colour grey of the writing is for the steel of swords and other weaponry.
+* Links/Buttons - Any links hovered over will respond.
+    - The page navigation links in the header will change colour to a paler version of themselves.
+    - The social media images will also change to a plaer version to indicate they are links.
+    - The background of the 'Buy Now' buttons will darken slightly when hovered over.
+* Writing Progress
+    - This feature is in place to provide the page user with up an update progress report for each of Oscar Pearson's upcoming projects. Thus keeping the user enticed and making it likely that they will return in the future to see how favoured book series are coming along.
+    - This feature was made using Bootstrap's 'progress-bar', allowing me to change the colouring to suit the page.
+* Accessibility
+    - The hamburger menu initiated for smaller screens, has aria-label added to let users with screen readers know where the toggleable menu is.
+    - Each progress-bar also has aria-label added so users with screen readers will be informed of the progress of selected upcoming projects.
+* Hero-image
+    - The background hero image is that of old, worn looking parchment meant to convey to the user the feeling that they are once again within Oscar Pearson's fantasy world.
+* Footer
+    - The footer has been designed to mirror the header by way of its colour scheme, though a dash of red has been thrown in for the Policy buttons.
+    - The author's social media links take center stage of the footer to once again encourage the user to check out the author's social media content and stay within easy reach of all things Oscar Pearson.
 
-    - About Oscar
+### Specific Features
+* Landing Page
+    - The first thing the user is introduced to the Oscar Pearson's latest release, showing the book cover along side a synopsis of the story, quotes from fellow authors and a button link to allow them to purchase the novel.
+* Books
+    - Similiarly set up to the main Landing page, the Books page consists of previous titles published by the author, allowing users to peruse Oscar's past novels and purchase as they please.
+* Events
+    - The events page consists of Bootstrap's 'table' class to inform user's of public events Oscar Pearson will be speaking on or attending by laying out clear information as to where and when they will take place.
+* Bio
+    - The Bio page constists of two halves detailing his life from before he became an author to how he became one and thereafter.
+* Contact
+    - The contact page provides a simples to use and understand form requesting basic information from any users who wish to get into contact with the Author.
+
+### Prospective Features
+-   Creat a space for users to comment on books and engage in discussion on the site about the books and their fantasy worlds.
 
 <a name="technologies"></a>
 ### Technologies Used
@@ -115,9 +141,11 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
 * [Google Fonts](https://fonts.google.com/) - Google Fonts was used to import 'Roboto' and 'PT Sarif' fonts in the main.css stylesheet.
 * [Git](https://git-scm.com/) - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 * [GitHub:](https://github.com/) - GitHub is used to store the projects code after being pushed from Git.
+* [GitPod](https://www.gitpod.io/) - GitPod, connected to GitHub, hosted the coding space and allowed the projected to be committed to the Github repository.
 * [Balsamiq](https://balsamiq.com/) - Balsamiq was used to create the [wireframes].
 * [Paint 3D](https://balsamiq.com/) - Microsoft app Paint 3D was used to edit some of the images for the book covers.
 * [jquery v3.5.1](https://getbootstrap.com/) - retrieved from a bootstrap example.
+* [Chrome DevTools](https://developer.chrome.com/docs/devtools/) for constant debugging and checking of features.
 
 ## Testing
 
