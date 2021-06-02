@@ -62,7 +62,7 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
 - ####    Typography
     - The main font I have chosen is 'Roboto' It is easy to read, stands out and will hopefully remind users of an easy to read book. I will use sans-serif as a backup font.
 
-    - The secondary font used is 'PT Serif' to help headings and titels to stand out from the rest of the text.
+    - The secondary font used is 'PT Serif' to help headings and titles to stand out from the rest of the text.
 
     - 'Crimson+Text' was added to the main text for the synopsis, quotes and bio sections to make the longer paragraphs more stylish and exciting to read.
 
@@ -72,7 +72,7 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
     - An image of faded parchment - also from (https://www.pexels.com/) - such as might have been used for maps in ancient times, was used for the background of the pages sections. Again this is used to draw the user into the authors fantastical worlds.
 
 - #### Wireframes
-    - All wireframes were made using Balsamiq.
+    - All wireframes were made using Balsamiq. I have left up my original wireframes to show how the project changed shape as I worked through it.
     
     - Mobile Wireframe
 
@@ -85,14 +85,23 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
 <a name="features"></a>
 ## Features
 
-    - Homepage
+### Common Features
 
-    - Books
+    - Header - provides users with easy navigation throughout the webpage.
+        - The header is positioned using Bootsraps 'sticky-top' class. This keeps the navigation always within easy reach for the user.
+        - The navigation menu is positioned in the header because this is the most common location for it meaning the user will know exactly where to find it.
+        - Whichever page the user is currenlty on among the website will be underlined with a red line to show the user exactly where they are.
+        - The header title is the Author's name, Oscar Pearson, this is here to instantly reasure fans of the author that they are on the right page for all of his content.
+        - Colors were chosen to represent the fantasy author's dark world where powers lies with the strong. The black signifies the dark world and the colour grey of the writing is for the steel of swords and other weaponry.
+    - Links/Buttons - Any links hovered over will respond.
+        - The page navigation links in the header will change colour to a paler version of themselves.
+        - The background of the 'Buy Now' buttons will darken slightly when hovered over.
+    - 
 
     - About Oscar
 
 <a name="technologies"></a>
-## Technologies Used
+### Technologies Used
 
 ### Languages Used
 
