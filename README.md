@@ -112,6 +112,7 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
     - The author's social media links take center stage of the footer to once again encourage the user to check out the author's social media content and stay within easy reach of all things Oscar Pearson.
 
 ### Specific Features
+
 * Landing Page
     - The first thing the user is introduced to the Oscar Pearson's latest release, showing the book cover along side a synopsis of the story, quotes from fellow authors and a button link to allow them to purchase the novel.
 * Books
@@ -144,7 +145,8 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
 * [GitPod](https://www.gitpod.io/) - GitPod, connected to GitHub, hosted the coding space and allowed the projected to be committed to the Github repository.
 * [Balsamiq](https://balsamiq.com/) - Balsamiq was used to create the [wireframes].
 * [Paint 3D](https://balsamiq.com/) - Microsoft app Paint 3D was used to edit some of the images for the book covers.
-* [jquery v3.5.1](https://getbootstrap.com/) - retrieved from a bootstrap example.
+* [jquery v3.5.1](https://getbootstrap.com/) - retrieved from a bootstrap example to assist with my navigation toggler.
+* [popper.js/1.16.0] (https://getbootstrap.com/) - retrieved from a bootstrap example to assist with my navigation toggler.
 * [Chrome DevTools](https://developer.chrome.com/docs/devtools/) for constant debugging and checking of features.
 
 ## Testing
@@ -173,6 +175,10 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
 
 *   All content was written by the developer.
 
-### media
+### Media
+* Animated mock profile image of Oscar Pearson provided by (https://dribbble.com/Setya182)
+* Parchment hero-image and book cover for Bloodstone: Book Two on the 'Books' page provided by pixabay.com at (https://www.pexels.com/@pixabay)
+* Book cover for Bloodstone: Book Three on the main landing page is by (https://www.pexels.com/@pedro-figueras-202443)
+* Book cover for Confused Worship on the 'Books' page provided by (https://www.pexels.com/@monatrms)
 
 ### Acknowledgements
