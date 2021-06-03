@@ -343,7 +343,7 @@ hr.rounded {
 }
 
 .signings td {
-    color: #a3001e;
+    color: black;
     font-weight: bold;
 }
 
@@ -356,8 +356,13 @@ hr.rounded {
 }
 
 .interviews td {
-    color: #a3001e;
+    color: black;
     font-weight: bold;
+}
+
+.table-dark {
+    color: #85898c;;
+    background-color: black;
 }
 
 /* --------------------------------------------Bio */
