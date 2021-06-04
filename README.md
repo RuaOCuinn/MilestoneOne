@@ -155,8 +155,11 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
 -   Much of my testing was done with dev tools on google chrome throughout the coding process - and fault finding on each specific screen size starting from the smallest screen first and working my way up to my largest screen.
 -   During testing and the making of the site I regularly used the element.style box to test out different styling ideas before implementing them into the permanent code.
 -   I ran both mobile and desktop through DevTools Lighthouse project:
-    - Mobile<img src="./assets/images/readme-images/lighthouse-mobile.png" />
-    - Desktop<img src="./assets/images/readme-images/lighthouse-desktop.png" />
+    - Mobile
+    <img src="./assets/images/readme-images/lighthouse-mobile.png" />
+
+    - Desktop
+    <img src="./assets/images/readme-images/lighthouse-desktop.png" />
 
  ### Functionality Testing
 - #### Internal & External links
@@ -200,17 +203,11 @@ This website was published using [GitHub Pages](https://pages.github.com/). The 
 Under the 'Source' click on the dropdown and select 'master branch' and click save.
 5. A link to your published page then appears above the source option.
 
-### Github Pages
-
-### Forking the Github Repository
-
-### Making a Local Clone
-
 ## Credits
 
 * [pexels](https://pexels.com/) - images for book covers taken from this site.
-
-### Code
+* [fontawesome](https://fontawesome.com/) - used for favicons throughout my page.
+* [balsamiq](https://balsamiq.com/) - used to create wireframes at the beginning of the project.
 
 ### Content
 
@@ -223,3 +220,4 @@ Under the 'Source' click on the dropdown and select 'master branch' and click sa
 * Book cover for Confused Worship on the 'Books' page provided by (https://www.pexels.com/@monatrms)
 
 ### Acknowledgements
+* I would like to Acknowledge Maranatha Ilesanmi for all his advice and support through our mentor meetings
