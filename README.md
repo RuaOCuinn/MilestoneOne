@@ -192,21 +192,21 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
 
 ### Testing User Stories
 * As a user I want to be able to view and purchase Oscar Pearson's latest releases.
--   The sites landing page opens direclty to where the user can view and purchase the author's latest book release by clicking on the provided 'buy now' links to purchase a copy.
+    - The sites landing page opens direclty to where the user can view and purchase the author's latest book release by clicking on the provided 'buy now' links to purchase a copy.
 * As a user I want to be able to view and purchase Oscar Pearson's past published works.
--   The site is simply laid out with easy to use navigation at hand to guide the user to the author's books and click on the provided 'buy now' links to purchase a copy.
+    - The site is simply laid out with easy to use navigation at hand to guide the user to the author's books and click on the provided 'buy now' links to purchase a copy.
 * As a user I want to be shown how to easily follow the author on social media platforms.
--   Social media links are positioned in the header and footer to encourage users to easily followe the author across other popular social networks.
+    - Social media links are positioned in the header and footer to encourage users to easily followe the author across other popular social networks.
 * As a user I want to find out more about the author Oscar Pearson's life.
--   A 'Bio' page is situated within the simple navigation and therein the user will find a summary of the author's life from before and after he became published.
+    - A 'Bio' page is situated within the simple navigation and therein the user will find a summary of the author's life from before and after he became published.
 * As a user I want to be able to read a brief synopsis of each book to get a feel for their stories.
--   Each book cover promoting the author's works can be found along side a partnering synopsis to tantalize the reader into the story.
+    - Each book cover promoting the author's works can be found along side a partnering synopsis to tantalize the reader into the story.
 * As a user I want to be able to navigate the site easily whether accessing through my mobile or laptop.
--   The site is very plainly laid out and easily navigated on all devices.
+    - The site is very plainly laid out and easily navigated on all devices.
 * As a user I want to be able to view any events the author is attending eg. signing, interviews etc.
--   An events page is listed in an easy to follow tabled structure on the fittingly names 'event' page.
+    - An events page is listed in an easy to follow tabled structure on the fittingly names 'event' page.
 * As a user I want to be able to get in touch to ask questions about upcoming events.
--   The user can contact the author with a message through the simple form element on the 'contact' page.
+    - The user can contact the author with a message through the simple form element on the 'contact' page.
 
 <a name="bugs"></a>
 ## Known Bugs
