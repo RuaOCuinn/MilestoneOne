@@ -40,6 +40,12 @@ section {
 
 .btn a {
     color: #fff;
+} 
+
+a {
+    color: #85898c;
+    text-decoration: none;
+    background-color: transparent;
 }
 
 /* --------------------------------------------Header */
@@ -445,13 +451,14 @@ footer {
 }
 
 .policy {
+    color: #85898c;
     background-color: black;
     background-size: 6px 12px;
 }
-
+/*
 .policy a {
-    color: #85898c;;
-}
+    color: #85898c;
+} */
 
 .rights {
     font-size: 70%;
