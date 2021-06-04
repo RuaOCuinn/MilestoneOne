@@ -128,7 +128,7 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
 -   Creat a space for users to comment on books and engage in discussion on the site about the books and their fantasy worlds.
 
 <a name="technologies"></a>
-### Technologies Used
+## Technologies Used
 
 ### Languages Used
 
@@ -208,9 +208,11 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
 * As a user I want to be able to get in touch to ask questions about upcoming events.
 -   The user can contact the author with a message through the simple form element on the 'contact' page.
 
-### Further Testing
-
-### Known Bugs
+<a name="bugs"></a>
+## Known Bugs
+* Throughout the making of this site I could not implement the header to look as I wanted with the navigation on laid out neatly on the right hand side and the Author's name on the opposite left. 
+I found I had to move on to other things each time I tried to fix this as I was getting more and more lost as I tried to fix the issue. I am aware that this is likely a relatively simple thing to fix and perhaps once I have stepped away from the project I can return and fix the issue with fresh eyes.
+* Another issue I feel I could fix in time is that if the screen is too big on some of the pages then there can be a white space left below the footer.
 
 ## Deployment
 
@@ -223,6 +225,7 @@ This website was published using [GitHub Pages](https://pages.github.com/). The 
 Under the 'Source' click on the dropdown and select 'master branch' and click save.
 5. A link to your published page then appears above the source option.
 
+<a name="credits"></a>
 ## Credits
 
 * [pexels](https://pexels.com/) - images for book covers taken from this site.
