@@ -161,13 +161,9 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
     - Each input field makes use of the 'required' attribute and once each field is filled in the form successfully send. As this is a site made purely for the sake of this project the successfully submited form leads only a codeinstitute formdump taken from the course.
 
 ### CSS3 validator - Pass
+
 - On first testing it showed I was using the same ID for a background image twice. I went back into my code and moved the id from each section header on the individual pages to the <body> element to fix the issue.
 - There were some erros with the buttons on the landing page and the books page but they were readily fixed.
-
-<a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fruaocuinn.github.io%2FMilestoneOne%2F">
-    <img style="border:0;width:88px;height:31px"
-        src="http://jigsaw.w3.org/css-validator/images/vcss"
-        alt="Valid CSS!"
 
 ### HTML5 validator - Pass
 - Their was an initial issue with the books page whereby an id for 'cover-image-outer' was used twice. this was fixed by changing it to a class.
