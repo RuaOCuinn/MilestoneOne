@@ -13,7 +13,7 @@ The aim is to help the author to market his novels, guide his audience to his so
 
 A link to the website can be found [https://ruaocuinn.github.io/MilestoneOne/]
 
-<img src="./assets/images/readme-images/landing-page.png" height="35px" />
+<img src="./assets/images/readme-images/landing-page.png" />
 
 ## Table of Contents
 
