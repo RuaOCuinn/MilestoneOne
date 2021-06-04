@@ -13,7 +13,7 @@ The aim is to help the author to market his novels, guide his audience to his so
 
 A link to the website can be found [https://ruaocuinn.github.io/MilestoneOne/]
 
-ADD WIREFRAME IMAGES OR IMAGE OF WEBSITE LANDING PAGE HERE!!!!!!!!!!!!!!!!!!
+<img src="./assets/images/readme-images/landing-page.png" height="35px" />
 
 ## Table of Contents
 
