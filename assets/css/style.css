@@ -445,6 +445,13 @@ footer {
     height: auto;
 }
 
+#footer {
+    position: relative;
+    bottom: 0;
+    width: 1500px;
+    height: auto;
+}
+
 .footer-left {
     margin-top: 20px;
     display: flex;
