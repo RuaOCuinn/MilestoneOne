@@ -151,6 +151,13 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
 
 ## Testing
 
+### Google Chrome DevTools
+-   Much of my testing was done with dev tools on google chrome throughout the coding process - and fault finding on each specific screen size starting from the smallest screen first and working my way up to my largest screen.
+-   During testing and the making of the site I regularly used the element.style box to test out different styling ideas before implementing them into the permanent code.
+-   I ran both mobile and desktop through DevTools Lighthouse project:
+    - Mobile<img src="./assets/images/readme-images/lighthouse-mobile.png" />
+    - Desktop<img src="./assets/images/readme-images/lighthouse-desktop.png" />
+
  ### Functionality Testing
 - #### Internal & External links
     - All links are working and have been tested on several screen sizes.
@@ -161,11 +168,15 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
     - Each input field makes use of the 'required' attribute and once each field is filled in the form successfully send. As this is a site made purely for the sake of this project the successfully submited form leads only a codeinstitute formdump taken from the course.
 
 ### CSS3 validator - Pass
+- The test is showing some issues but they are with the bootsrtap link. 
+
+<a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fruaocuinn.github.io%2FMilestoneOne%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en">
+
+### HTML5 validator - Pass
+- After the below issues were fixed each page was teasted seperately and passed.
 
 - On first testing it showed I was using the same ID for a background image twice. I went back into my code and moved the id from each section header on the individual pages to the <body> element to fix the issue.
 - There were some erros with the buttons on the landing page and the books page but they were readily fixed.
-
-### HTML5 validator - Pass
 - Their was an initial issue with the books page whereby an id for 'cover-image-outer' was used twice. this was fixed by changing it to a class.
 - Another issue was highlighted for the contact page whereby the 'aria-describedby' was incorrect. This was quickly fixed.
 
