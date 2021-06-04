@@ -151,6 +151,19 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
 
 ## Testing
 
+ ### Functionality Testing
+- #### Internal & External links
+    - All links are working and have been tested on several screen sizes.
+    - The hamburger menu appears on screen sizes smaller than 768px. When clicked, it expands to reveal page links. These have been tested and are working as expected on several screen sizes.
+    - The navigation bar stays at the top of the page on all screen sizes.
+- #### Contact Form
+    - The contact form has been tested on several screen sizes and is in working order.
+    - Each input field makes use of the 'required' attribute and once each field is filled in the form successfully send. As this is a site made purely for the sake of this project the successfully submited form leads only a codeinstitute formdump taken from the course.
+
+### Css3 validator
+    - On first testing It showed I was using the same ID for a background image twice. I went back into my code and moved the id from each section header on the individual pages to the <body> element to fix the issue.
+
+
 ### Testing User Stories
 
 ### Further Testing
