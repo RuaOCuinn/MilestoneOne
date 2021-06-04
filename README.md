@@ -162,7 +162,7 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
 ### Publishing
 This website was published using [GitHub Pages](https://pages.github.com/). The procedure is outlined below.
 1. Go to the GitHub website and log in.
-2. On the left-hand side, you'll see all your repositories, select the appropriate one. ([Repository](https://github.com/liigalized/MS1_boredom_guide) used for this project).
+2. On the left-hand side, you'll see all your repositories, select the appropriate one. ([Repository](https://github.com/RuaOCuinn/MilestoneOne) used for this project).
 3. Under the name of your chosen Repository you will see a ribbon of selections, click on 'Settings' located on the right hand side.
 4. Scroll down and click on the 'Pages' tab on the left-hand side.
 Under the 'Source' click on the dropdown and select 'master branch' and click save.
@@ -176,7 +176,7 @@ Under the 'Source' click on the dropdown and select 'master branch' and click sa
 
 ## Credits
 
-* [pexels](https://pexels.com/) - images for books covers taken from this site.
+* [pexels](https://pexels.com/) - images for book covers taken from this site.
 
 ### Code
 
