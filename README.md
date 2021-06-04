@@ -11,7 +11,7 @@ The aim is to help the author to market his novels, guide his audience to his so
 
 ## Deployment
 
-A link to the website can be found [here] INSERT ACTUAL LINK HERE!!!!!!!!!!!!!!!!!
+A link to the website can be found [https://ruaocuinn.github.io/MilestoneOne/]
 
 ADD WIREFRAME IMAGES OR IMAGE OF WEBSITE LANDING PAGE HERE!!!!!!!!!!!!!!!!!!
 
@@ -158,6 +158,15 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
 ### Known Bugs
 
 ## Deployment
+
+### Publishing
+This website was published using [GitHub Pages](https://pages.github.com/). The procedure is outlined below.
+1. Go to the GitHub website and log in.
+2. On the left-hand side, you'll see all your repositories, select the appropriate one. ([Repository](https://github.com/liigalized/MS1_boredom_guide) used for this project).
+3. Under the name of your chosen Repository you will see a ribbon of selections, click on 'Settings' located on the right hand side.
+4. Scroll down and click on the 'Pages' tab on the left-hand side.
+Under the 'Source' click on the dropdown and select 'master branch' and click save.
+5. A link to your published page then appears above the source option.
 
 ### Github Pages
 
