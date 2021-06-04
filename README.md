@@ -160,9 +160,10 @@ It is aimed at readers of fantasy novels, specifically readers of the sub-genre 
     - The contact form has been tested on several screen sizes and is in working order.
     - Each input field makes use of the 'required' attribute and once each field is filled in the form successfully send. As this is a site made purely for the sake of this project the successfully submited form leads only a codeinstitute formdump taken from the course.
 
-### Css3 validator
-    - On first testing It showed I was using the same ID for a background image twice. I went back into my code and moved the id from each section header on the individual pages to the <body> element to fix the issue.
+### Css3 validator - Pass
 
+- On first testing It showed I was using the same ID for a background image twice. I went back into my code and moved the id from each section header on the individual pages to the <body> element to fix the issue.
+- There were some erros with the buttons on the landing page and the books page but they were readily fixed.
 
 ### Testing User Stories
 
